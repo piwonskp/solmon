@@ -1,0 +1,6 @@
+solana==0.32.0
+asyncstdlib==3.12.0
+click==8.1.7
+anchorpy==0.19.1
+isort==5.13.2
+black==24.2.0
