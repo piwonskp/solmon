@@ -1,3 +1,4 @@
+import time
 from operator import eq, ge, gt, le, lt, ne
 
 from anchorpy import Program
